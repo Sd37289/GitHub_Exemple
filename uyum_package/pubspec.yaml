@@ -1,0 +1,20 @@
+name: uyum_package
+description: Uyum Mobile Package Exemple Project
+version: 0.0.1
+# homepage:
+#aurhor: Uyum Mobile  <sd37289@gmail.com>
+
+environment:
+  sdk: '>=3.2.0-231.0.dev <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
